@@ -6,7 +6,7 @@
 - 🌱 I’m currently exploring JavaScript and Python with a big interest in frameworks, libraries and Data Structures and Algorithms. 
 - 🎙️ My Podcast (in my native language): [CarenCast Podcast](https://podcasts.apple.com/us/podcast/carencast/id1500159907).
 - 📫 Email me at [mahdihamldar@gmail.com](mailto:mahdihamldar@gmail.com).
-- 
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
