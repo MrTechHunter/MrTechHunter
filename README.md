@@ -3,7 +3,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a CSE student at Shamsipour Technical and Vocational College
-- 🌱 I’m currently exploring JavaScript and Python with a big interest in frameworks, libraries and Data Structures and Algorithms. 
+- 🌱 I’m currently exploring JavaScript and Python with a big interest in frameworks, libraries, and Data Structures and Algorithms.
 - 🎙️ My Podcast (in my native language): [CarenCast Podcast](https://podcasts.apple.com/us/podcast/carencast/id1500159907).
 - 📫 Email me at [mahdihamldar@gmail.com](mailto:mahdihamldar@gmail.com).
 
